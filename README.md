@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Leonardo 👋
 
-- 💼 Desenvolvedor Backend na <a href="https://www.americanas.com.br/" target="_blank">@americanas s.a.</a>
+- 💼 Desenvolvedor Python na <a href="https://www.americanas.com.br/" target="_blank">@americanas s.a.</a> | Engenharia de Dados | SQL
 - 🎓 Graduando em Sistemas de Informação pela Unilasalle-RJ
 
 ##
